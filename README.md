@@ -6,7 +6,16 @@
 ## Project Description
 This project is about identify the customer churn and create a model for
 Predict customer churn, Then we move to implementing the engineering and
-software best practices to have **lean Code Package** in the end
+software best practices to have **Clean Code Package** in the end
+
+We start from *churn_notebook.ipynb* and packaging all codes in *churn_library.py*, Then we logged 
+and tested all functions in *churn_script_logging_and_tests.py*.
+
+### What have we achieved in this project?
+- Raise Code Quality
+- implement Testing & Logging
+- Save Images & Models
+- Problem Solving
 
 ## Files and data description
 ### Files: 
