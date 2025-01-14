@@ -19,8 +19,10 @@ software best practices to have **lean Code Package** in the end
 ├── *README.md*            # ToDo: Provides project overview, and instructions to use the code
 
 ├── *images*               # Store EDA results 
-│   ├── *eda*
-│   └── *results*
+│   
+├── *eda*
+│   
+└── *results*
 
 ├── *logs*				 # Store logs
 
