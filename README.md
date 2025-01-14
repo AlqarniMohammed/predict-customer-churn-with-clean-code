@@ -11,13 +11,19 @@ software best practices to have **lean Code Package** in the end
 ## Files and data description
 ### Files: 
 ├── churn_notebook.ipynb # Given: Contains the code to be refactored
+
 ├── churn_library.py     # ToDo: Define the functions
+
 ├── churn_script_logging_and_tests.py # ToDo: Finish tests and logs
+
 ├── README.md            # ToDo: Provides project overview, and instructions to use the code
+
 ├── images               # Store EDA results 
 │   ├── eda
 │   └── results
+
 ├── logs				 # Store logs
+
 └── models               # Store models
 
 ### Data description
