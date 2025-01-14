@@ -19,12 +19,13 @@ software best practices to have **lean Code Package** in the end
 ├── *README.md*            # ToDo: Provides project overview, and instructions to use the code
 
 ├── *images*               # Store EDA results
+
 └── *eda*   
 └── *results*
 
 ├── *logs*				 # Store logs
 
-└── *models*               # Store models
+├── *models*               # Store models
 
 ### Data description
 We have a bank of data that describe the customers informations, every record present a costumer, and we used these data for predict the customer churn regarding his information.
