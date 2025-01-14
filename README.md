@@ -1,6 +1,7 @@
-# Predict Customer Churn
+# Predict Customer Churn with Clean Code
 
 - Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+- The rights to the data and files in this project are reserved to **Udacity**
 
 ## Project Description
 This project is about identify the customer churn and create a model for
