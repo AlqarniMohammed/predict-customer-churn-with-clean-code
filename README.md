@@ -29,8 +29,7 @@ software best practices to have **lean Code Package** in the end
 
 ### Data description
 We have a bank of data that describe the customers informations, every record present a costumer, and we used these data for predict the customer churn regarding his information.
+Unfortunately, you will not find the data included in the project to preserve Udacity's rights.
 
-## Running Files
-First, You should to run *churn_library.py* and this will implement all functions in this file and create the models that can predict the customer churn.
-
-Then you should to run *churn_script_logging_and_tests.py* and this will logging and testing all functions in the first file that we have run.
+## Achieving PEP 8 standards
+We achieved PEP 8 standards in both Python files with a score of +9.5 when using the Pylint tool
